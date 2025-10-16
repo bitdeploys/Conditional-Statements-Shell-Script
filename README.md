@@ -2,7 +2,7 @@
 Conditional Statements | Shell Script
 
 
-1. Implementing if statement
+1. Implementing if statement:
 if [ expression ]
 then
    statement
@@ -25,3 +25,4 @@ if [ $x != $y ]
 then echo "x is not equal to y"
 fi
 
+Output: x is not equal to y
