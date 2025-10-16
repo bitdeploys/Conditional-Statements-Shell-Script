@@ -30,7 +30,7 @@ Output: x is not equal to y
 
 
 
-1. Implementing if-else statement:
+2. Implementing if-else statement:
 if [ expression ]
 then
    statement1
