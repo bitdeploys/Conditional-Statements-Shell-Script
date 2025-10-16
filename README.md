@@ -13,6 +13,7 @@ Script Example:
 # two variables x & y
 x=100
 y=120
+
 # check whether x is equal to y
 if [ $x == $y ]
 then
